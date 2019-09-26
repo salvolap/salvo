@@ -1,4 +1,4 @@
-id,id_wasp,id_secret,frame_type,frame_number,sensor,value,timestamp,sync,raw,parser_type,MeshliumID,,valueHum
+id,id_wasp,id_secret,frame_type,frame_number,sensor,value,timestamp,sync,raw,parser_type,MeshliumID,valueHum
 4516,WeatherStation,49387063D9374225,134,201,PLV3,0.00,6/20/2018 0:03,128,noraw,1,meshliuma460,,56.9
 18076,WeatherStation,49387063D9374225,134,48,PLV3,0.00,6/21/2018 0:04,128,noraw,1,meshliuma460,,56.9
 31747,WeatherStation,49387063D9374225,134,52,PLV3,0.00,6/22/2018 0:02,128,noraw,1,meshliuma460,,57.2
